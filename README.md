@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello, welcome to my profile. 
+ ---
 
-<!--
-**barussifelipe/barussifelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
 
-Here are some ideas to get you started:
+<summary>Programming Languages:</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.  Python
+2.  Java
+
+</details>
+
+<details>
+  
+<summary>Current Projects:</summary>
+1.  Stock price prediction using HMM
+
+</details>
+
+<details>
+  
+<summary>Projects done:</summary>
+<!-- At least 5 --> 
+
+</details>
+
+
